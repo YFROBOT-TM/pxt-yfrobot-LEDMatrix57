@@ -1,0 +1,22 @@
+{
+    "name": "YFMATRIX57",
+    "version": "0.0.8",
+    "description": "Microbit makecode package for Yfrobot LED Dot Matrix 5x7 Module",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/YFMATRIX57-strings.json",
+        "_locales/zh-cn/YFMATRIX57-jsdoc-strings.json",
+        "_locales/zh-tw/YFMATRIX57-strings.json",
+        "_locales/zh-tw/YFMATRIX57-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}

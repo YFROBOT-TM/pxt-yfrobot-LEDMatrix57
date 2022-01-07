@@ -1,0 +1,9 @@
+{
+    "YFMATRIX57.createDotMatrix57|block": "57點陣模塊 CLK %clk| DIO %dio",
+    "YFMATRIX57.YFTM1637LEDs.intensity|block": "%yfDM57| 設置亮度 %val",
+    "YFMATRIX57.YFTM1637LEDs.showdot|block": "%yfDM57| 顯示點 X %x| Y %y",
+    "YFMATRIX57.YFTM1637LEDs.showline|block": "%yfDM57| 顯示行 X %x",
+    "YFMATRIX57.YFTM1637LEDs.showdotsCus|block": "%yfDM57| 顯示自定義數組 %text=YFMATRIX57_presetGraph|",
+    "YFMATRIX57.YFTM1637LEDs.clear|block": "%yfDM57| 清除點陣顯示",
+    "{id:category}YFMATRIX57": "5X7點陣顯示"
+}

@@ -1,0 +1,9 @@
+{
+    "YFMATRIX57.createDotMatrix57|block": "57点阵模块 CLK %clk| DIO %dio",
+    "YFMATRIX57.YFTM1637LEDs.intensity|block": "%yfDM57| 设置亮度 %val",
+    "YFMATRIX57.YFTM1637LEDs.showdot|block": "%yfDM57| 显示点 X %x| Y %y",
+    "YFMATRIX57.YFTM1637LEDs.showline|block": "%yfDM57| 显示行 X %x",
+    "YFMATRIX57.YFTM1637LEDs.showdotsCus|block": "%yfDM57| 显示自定义数组 %text=YFMATRIX57_presetGraph|",
+    "YFMATRIX57.YFTM1637LEDs.clear|block": "%yfDM57| 清除点阵显示",
+    "{id:category}YFMATRIX57": "5X7点阵显示"
+}

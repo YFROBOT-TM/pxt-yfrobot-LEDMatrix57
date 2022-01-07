@@ -1,0 +1,18 @@
+{
+    "YFMATRIX57.YFTM1637LEDs.intensity|param|val": "亮度值",
+    "YFMATRIX57.YFTM1637LEDs.intensity": "設置TM1637強度，範圍是[0-8]，0關閉。",
+    "YFMATRIX57.YFTM1637LEDs.showdot|param|x": "x坐標",
+    "YFMATRIX57.YFTM1637LEDs.showdot|param|y": "y坐標",
+    "YFMATRIX57.YFTM1637LEDs.showdot": "在給定位置點亮一點。",
+    "YFMATRIX57.YFTM1637LEDs.showline|param|x": "起點x坐標",
+    "YFMATRIX57.YFTM1637LEDs.showline": "點亮一行。",
+    "YFMATRIX57.YFTM1637LEDs.showdotsCus|param|text": "自定義數組",
+    "YFMATRIX57.YFTM1637LEDs.showdotsCus": "顯示自定義數組",
+    "YFMATRIX57.YFTM1637LEDs.clear": "清除點陣顯示",
+    "YFMATRIX57.createDotMatrix57|param|clk": "CLK PIN",
+    "YFMATRIX57.createDotMatrix57|param|dio": "DIO PIN",
+    "YFMATRIX57.createDotMatrix57|param|intensity": "亮度值",
+    "YFMATRIX57.createDotMatrix57": "創建一個對象。",
+    "YFMATRIX57.presetGraph": "預設圖案",
+    "YFMATRIX57.cusGraphArray": "自定義圖案字符串數組"
+}
